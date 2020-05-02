@@ -11,10 +11,9 @@ As we go through the material what we cover will be updated below.
 ## Material Covered
 
 ### Day 1 - Data Gathering
-You'll:
 <ul>
-  <li>work through a pandas refresher,</li>
-  <li>be introduced to some popular data websites,</li>
-  <li>go through an introduction to html scraping with beautifulsoup,</li>
-  <li>learn the fundamentals of relational databases in python.</li>
+  <li>Work through a pandas refresher,</li>
+  <li>Be introduced to some popular data websites,</li>
+  <li>Go through an introduction to html scraping with beautifulsoup,</li>
+  <li>Learn the fundamentals of relational databases in python.</li>
 </ul>
