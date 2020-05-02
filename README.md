@@ -11,6 +11,9 @@ As we go through the material what we cover will be updated below.
 ## Material Covered
 
 ### Day 1 - Data Gathering
+All the lecture materials can be found in the Lectures/DataGathering Folder.
+We'll be working through Notebooks 1 - 4 in that folder. 
+
 <ul>
   <li>Work through a pandas refresher,</li>
   <li>Be introduced to some popular data websites,</li>
