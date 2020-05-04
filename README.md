@@ -21,3 +21,17 @@ On this day you'll do this following.
   <li>Go through an introduction to html scraping with beautifulsoup,</li>
   <li>Learn the fundamentals of relational databases in python.</li>
 </ul>
+
+
+### Day 2 - Regression
+All the lecture materials can be found in the Lectures/Regression Folder.
+On this day we'll complete notebooks 1 and 2, then start notebook 3.
+
+On this day we'll:
+<ul>
+  <li>Introduce Regression,</li>
+  <li>Learn about Statistical Learning,</li>
+  <li>Start with Simple Linear Regression,</li>
+  <li>Touch on SLR assumptions,</li>
+  <li>Begin Multiple Linear Regression.</li>
+</ul>
