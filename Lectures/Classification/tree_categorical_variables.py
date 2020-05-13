@@ -12,7 +12,7 @@ import string
 import sys
 import time
 
-import h2o
+#import h2o
 import numpy as np
 import pandas as pd
 from sklearn.linear_model import LogisticRegressionCV
