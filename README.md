@@ -72,3 +72,74 @@ On this day we:
   <li>Adapt cross-validation for time series data, and</li>
   <li>begin on exponential smoothing.</li>
 </ul>
+
+### Day 6 - Time Series 2 and Classification 1
+The lecture materials are Time Series Notebook 4 and 5 as well as Classification Notebooks 1-3.
+
+On this day we:
+<ul>
+  <li>Reviewed the End of Exponential Smoothing,</li>
+  <li>Went through ARIMA,</li>
+  <li>Discussed the goals of classification problems,</li>
+  <li>Learned our first simple classification algorithm knn,</li>
+  <li>Introduced stratified train test splits, and</li>
+  <li>Demonstrated the Logistic Regression algorithm.</li>
+</ul>
+
+### Day 7 - Classification 2
+The lecture materials are Classification Notebooks 4-6.
+
+On this day we:
+<ul>
+  <li>Cleared up any lingering questions on Logistic Regression,</li>
+  <li>Introduced Decision Trees,</li>
+  <li>Saw how we can combine many decision trees into a random forest,</li>
+  <li>Learned about some short comings of the sklearn tree based methods with
+  regards to categorical data.</li>
+</ul>
+
+### Day 8 - Classification 3
+The lecture materials are Classification Notebooks 7 and 8.
+
+Today we:
+<ul>
+  <li>Reviewed support vector machine algorithms,</li>
+  <li>Expanded upon our ensemble method techniques with:
+    <ul>
+      <li>Voter Methods,</li>
+      <li>Bagging and Pasting, and</li>
+      <li>Boosting.</li>
+    </ul>
+  </li>
+</ul>
+
+### Day 9 - Unsupervised Learning 1
+The lecture materials are What's Different With Unsupervised Learning, and Unsupervised
+Learning Notebooks 1 and 2.
+
+We:
+<ul>
+  <li>Introduced the goal of Unsupervised learning techniques,</li>
+  <li>Reviewed an array of clustering algorithms including:
+    <ul>
+      <li>k Means Clustering,</li>
+      <li>Hierarchical Clustering, and</li>
+      <li>DBScan,</li>
+    </ul>
+  </li>
+  <li>Described two Clustering practice problems.</li>
+</ul>
+
+### Day 10 - Unsupervised Learning 2
+The lecture materials are Unsupervised Learning Notebook 3, Proper Data Preprocessing
+Steps, and potentially the beginning of Unsupervised Learning Notebook 4.
+
+We:
+<ul>
+  <li>Discussed the desire to perform dimensionality reduction,</li>
+  <li>Introduced Principal Components Analysis and derived the mathematical technique,</li>
+  <li>Showed how to interpret the output of PCA,</li>
+  <li>Laid out the "Elbow Method" with the Explained Variance Curve to determine the
+  "natural" dimensionality of the data set,</li>
+  <li>Reviewed proper preprocessing procedures and more advanced pipelines.</li>
+</ul>
