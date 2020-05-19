@@ -129,3 +129,17 @@ We:
   </li>
   <li>Described two Clustering practice problems.</li>
 </ul>
+
+### Day 10 - Unsupervised Learning 2
+The lecture materials are Unsupervised Learning Notebook 3, Proper Data Preprocessing
+Steps, and potentially the beginning of Unsupervised Learning Notebook 4.
+
+We:
+<ul>
+  <li>Discussed the desire to perform dimensionality reduction,</li>
+  <li>Introduced Principal Components Analysis and derived the mathematical technique,</li>
+  <li>Showed how to interpret the output of PCA,</li>
+  <li>Laid out the "Elbow Method" with the Explained Variance Curve to determine the
+  "natural" dimensionality of the data set,</li>
+  <li>Reviewed proper preprocessing procedures and more advanced pipelines.</li>
+</ul>
